@@ -9,4 +9,4 @@ result = cursor.fetchone()
 
 print ("MariaDB version : {}".format(result))
 
-connection.close()
+connection.close() 
